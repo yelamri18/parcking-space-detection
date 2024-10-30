@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 4
+names: ['Boots', 'Helmet', 'Person', 'Vest']
+
+roboflow:
+  workspace: deva-hbra5
+  project: ppe-btlug
+  version: 15
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/deva-hbra5/ppe-btlug/dataset/15
