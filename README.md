@@ -21,7 +21,6 @@ Voici un exemple de détection en temps réel des espaces de stationnement :
 - **cvzone** : pour les outils de traitement d'image.
 - **matplotlib** : pour les graphiques et visualisations.
 - **opencv-python** : pour le traitement des images et vidéos.
-- **requests** : pour les requêtes HTTP et l'intégration des API.
 - **torch** : pour le deep learning et l'intégration des modèles YOLOv8.
 - **YOLOv8** pour la détection d'objets.
 
