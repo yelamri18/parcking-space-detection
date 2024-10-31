@@ -15,7 +15,7 @@ En fournissant ces données, notre solution contribue à réduire le temps de re
 ## Capture d'écran
 Voici un exemple de détection en temps réel des espaces de stationnement :
 
-![Exemple de détection](C:\Users\Asus\Desktop\mesVDs\detection.png)
+![Exemple de détection](images/detection.png)
 
 ## Technologies Utilisées
 - **cvzone** : pour les outils de traitement d'image.
