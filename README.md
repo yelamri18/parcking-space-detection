@@ -12,17 +12,17 @@ La gestion des espaces de stationnement dans les zones urbaines est devenue un e
 
 En fournissant ces données, notre solution contribue à réduire le temps de recherche de stationnement, optimisant ainsi l'utilisation de l'espace urbain.
 
-## Capture d'écran
-Voici un exemple de détection en temps réel des espaces de stationnement :
-
-![Exemple de détection](images/detection.png)
-
 ## Technologies Utilisées
 - **cvzone** : pour les outils de traitement d'image.
 - **matplotlib** : pour les graphiques et visualisations.
 - **opencv-python** : pour le traitement des images et vidéos.
 - **torch** : pour le deep learning et l'intégration des modèles YOLOv8.
 - **YOLOv8** pour la détection d'objets.
+- 
+## Capture d'écran
+Voici un exemple de détection en temps réel des espaces de stationnement :
+
+![Exemple de détection](images/detection.png)
 
 ## Améliorations Futures
 - Extension du modèle pour gérer des **parkings plus grands**, permettant de détecter les places disponibles et occupées sur plusieurs niveaux ou zones étendues.
